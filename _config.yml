@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:title/
 url: http://www.sizmoj.com
-baseurl: sizmoj.github.io
+baseurl: /sizmoj.github.io
 name: 细枝末节
 author: sizmoj
 qq: 2085526
