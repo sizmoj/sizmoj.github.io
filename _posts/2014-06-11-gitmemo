@@ -1,0 +1,8 @@
+---
+date: 2014-06-11 22:08:31+00:00
+layout: post
+title: git command 备忘
+categories: git
+tags: github git
+---
+clone your fork : git clone <your url>
